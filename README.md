@@ -26,3 +26,19 @@ Compile the code:
 javac UnitConverter.java
 Run the program:
 java UnitConverter
+
+sample run:
+=== Unit Converter ===
+1. Length
+2. Temperature
+3. Weight
+4. Exit
+Choose a category: 1
+
+Length Conversion:
+1. Meters to Kilometers
+2. Kilometers to Miles
+3. Feet to Meters
+1
+Enter value: 5000
+5000.0 m = 5.0 km
